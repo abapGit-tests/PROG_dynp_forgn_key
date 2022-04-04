@@ -33,7 +33,6 @@
        <CONT_NAME>SCREEN</CONT_NAME>
        <TYPE>TEMPLATE</TYPE>
        <NAME>ZTEST_DB_TAB2-FIELD_1</NAME>
-       <TEXT>______________________________</TEXT>
        <LINE>004</LINE>
        <COLUMN>010</COLUMN>
        <LENGTH>030</LENGTH>
